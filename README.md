@@ -1,1 +1,2 @@
-# Lasertag_InputOutput
+# Lasertag
+lasertag game with nodemcu
